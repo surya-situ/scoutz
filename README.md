@@ -44,7 +44,7 @@ Open [http://localhost:5173](http://localhost:5173) with your browser to see the
 
 ## Contributing
 ```bash
-Fork it (https://github.com/surya-situ/scribble/fork)
+Fork it (https://github.com/surya-situ/scoutz/fork)
 Create your feature branch (git checkout -b feature/fooBar)
 Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
