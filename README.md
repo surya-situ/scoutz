@@ -50,3 +50,9 @@ Commit your changes (git commit -am 'Add some fooBar')
 Push to the branch (git push origin feature/fooBar)
 Create a new Pull Request
 ```
+
+## Author
+
+👤 **Suryakanta Das**
+
+* Github: [@surya-situ](https://github.com/surya-situ)
